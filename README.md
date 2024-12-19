@@ -30,4 +30,10 @@ url = "https://statso.io/usd-inr-conversion-rate-case-study/"
 # Fetch the content of the webpage
 response = requests.get(url)
 
+## Features
+- 💹 **Real-time Exchange Rates**: Stay updated with accurate conversion rates.
+- 📊 **Historical Trends**: Analyze trends with intuitive graphs.
+- 💰 **Multi-Currency Support**: Convert across 50+ currencies.
+- 🔔 **Custom Alerts**: Set rate thresholds and get notified instantly.
+
 
