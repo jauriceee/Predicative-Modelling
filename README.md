@@ -22,3 +22,16 @@ _The dataset contains the value of INR for 1 USD for a given time. Below are all
 
 _Your task is to analyze historical USD – INR exchange rate data and develop a forecasting model to predict future exchange rates. The goal is to help individuals, businesses, and financial institutions make informed decisions about foreign exchange and international trade._
 
+import requests
+
+# URL of the dataset
+url = "https://statso.io/usd-inr-conversion-rate-case-study/"
+
+# Fetch the content of the webpage
+response = requests.get(url)
+
+if response.status_code == 200:
+    # Print the content of the webpage (if it's text or HTML)
+    print(response.text)
+else:
+    print(f"Failed to retrieve data. Status code: {response.status_code}")
