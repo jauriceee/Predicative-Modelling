@@ -30,8 +30,4 @@ url = "https://statso.io/usd-inr-conversion-rate-case-study/"
 # Fetch the content of the webpage
 response = requests.get(url)
 
-if response.status_code == 200:
-    # Print the content of the webpage (if it's text or HTML)
-    print(response.text)
-else:
-    print(f"Failed to retrieve data. Status code: {response.status_code}")
+
