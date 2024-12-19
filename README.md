@@ -2,7 +2,7 @@
  
  #
  
-_The USD – INR conversion rate is a crucial economic indicator for India and the United States that impacts various sectors including import-export business, foreign investment, tourism, etc. Analyzing historical data and forecasting future exchange rates can provide valuable insights and help stakeholders mitigate risk, optimize currency conversions, and plan financial strategies effectively.
+_The USD INR conversion rate is a crucial economic indicator for India and the United States that impacts various sectors including import-export business, foreign investment, tourism, etc. Analyzing historical data and forecasting future exchange rates can provide valuable insights and help stakeholders mitigate risk, optimize currency conversions, and plan financial strategies effectively._
 
 The dataset contains the value of INR for 1 USD for a given time. Below are all the features in the data:
 
